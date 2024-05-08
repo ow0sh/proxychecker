@@ -1,0 +1,11 @@
+{
+    "description": "Simple extension to track status of your proxies",
+    "name": "Proxy checker",
+    "shell-version": [
+      "45",
+      "46"
+    ],
+    "url": "https://github.com/ow0sh/proxychecker",
+    "uuid": "proxychecker@ow0sh.github",
+    "version": 45.4
+  }
